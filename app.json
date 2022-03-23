@@ -1,8 +1,0 @@
-{
-  "name": "Kanbang",
-  "description": "Backend for Kanbang",
-  "repository": "",
-  "logo": "",
-  "keywords": ["node", "heroku"],
-  "image": "heroku/nodejs"
-}
