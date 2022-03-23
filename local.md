@@ -3,7 +3,7 @@ To run locally.
 1. Install heroku CLI
 2. Run `heroku login`
 3. Build project
-4. Run `heroku config:get DATABASE_URL -a kanbang -s >> .env` to get the database URL (this might need to be updated later)
+4. Run `heroku config -s -a kanbang > .env` to get the environment setup locally
 5. Run `heroku local`
 
 Postgres:
